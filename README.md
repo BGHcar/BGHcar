@@ -10,7 +10,7 @@
 
 ### 🧑‍🏫 Sobre mí
 
-Soy un estudiante de octavo semestre de Ingeniería en Sistemas con una fuerte pasión por el desarrollo de software y las tecnologías que impulsan soluciones reales. A lo largo de mi carrera universitaria he participado en múltiples proyectos donde he aplicado conceptos sólidos de ingeniería de software, enfocándome especialmente en:
+Soy un estudiante de Ingeniería en Sistemas con una fuerte pasión por el desarrollo de software y las tecnologías que impulsan soluciones reales. A lo largo de mi carrera universitaria he participado en múltiples proyectos donde he aplicado conceptos sólidos de ingeniería de software, enfocándome especialmente en:
 
 - **Programación orientada a objetos (OOP)**
 - **Diseño modular y buenas prácticas de desarrollo**
